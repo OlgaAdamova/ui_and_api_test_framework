@@ -5,3 +5,5 @@ pytest-html
 requests
 jira
 black
+flask
+flask-restx
